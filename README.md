@@ -1,2 +1,1 @@
-# PREPCOURSE-HENRYY
-REPOSITORIO DE PRUEBA EN HENRY
+este proyecto es una prueba de como crear un repositorio y clonarlo desde git hub hasta la pc
