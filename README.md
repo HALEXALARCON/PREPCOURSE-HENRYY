@@ -1,1 +1,1 @@
-este proyecto es una prueba de como crear un repositorio y clonarlo desde git hub hasta la pc para denotar los cambios continuamente con el fin de ser cada vez  mejor y poder trabajar en esto pronto con dedicacion  SSS  
+este proyecto es una prueba de como crear un repositorio y clonarlo desde git hub hasta la pc para denotar los cambios continuamente con el fin de ser cada vez  mejor y poder trabajar en esto pronto con dedicacion  SSS X 
